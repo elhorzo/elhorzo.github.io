@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+}
+h1 {
+  color: red;
+  text-align: center;
+  font-style: italic;
+
+}
+h2 {
+  color: orange;
+}
+h3 {
+  color: yellow;
+  text-shadow: black;
+}
+h4 {
+  color: green;
+}
+h5 {
+  color: blue;
+}
+h6 {
+  color: purple;
+}
+#highlight {
+  color: blue;
+  font-style: oblique;
+}
